@@ -612,7 +612,7 @@ Discord.js, Node.js ve web tabanlı projeler geliştiren bağımsız geliştiric
 <p>
   <a href="https://github.com/WaseJS">GitHub</a> ·
   <a href="https://instagram.com/wase.js">Instagram</a> ·
-  <a href="https://discord.com/users/1495705032908079145">Discord</a>
+  <a href="https://discord.com/users/517984021800812547">Discord</a>
 </p>
 
 </div>
