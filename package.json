@@ -1,0 +1,16 @@
+{
+  "name": "wase-temp-voice",
+  "version": "2.1.0",
+  "main": "wase.js",
+  "scripts": {
+    "start": "node wase.js"
+  },
+  "dependencies": {
+    "@discordjs/voice": "^0.19.2",
+    "@napi-rs/canvas": "^1.0.8",
+    "discord.js": "^14.21.0",
+    "global-agent": "^4.1.3",
+    "mongoose": "^8.8.0",
+    "undici": "^8.10.1"
+  }
+}

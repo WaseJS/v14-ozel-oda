@@ -1,0 +1,28 @@
+{
+  "token": "BOT_TOKENINIZ",
+  "clientId": "BOT_CLIENT_ID",
+  "joinChannelId": "OZEL_ODA_ICIN_SES_KANALI",
+  "categoryId": "ODALARIN_KATAGORISI",
+  "botVoiceChannelId": "BOTUN_GIRECEGI_SES?KANALI",
+  "mongoUri": "MONGOFB_URL",
+  "prefix": ".",
+  "allowedUsers": [
+    "OWNER_ID"
+  ],
+  "emojis": {
+    "lock": "<:lock:1544324364202156072>",
+    "unlock": "<:unlock:1544324382602690660>",
+    "hide": "<:hide:1544324606385459302>",
+    "show": "<:unhide:1544324587490250853>",
+    "ban": "<:ban:1544324840184356884>",
+    "unban": "<:unban:1544324863542566962>",
+    "call": "<:call:1544325076814536825>",
+    "kick": "<:kick:1544325150395334677>",
+    "rename": "<:rename:1544325247111528469>",
+    "limit": "<:limit:1544325405496967250>",
+    "panel": "<:panel:1544326699645141043>",
+    "success": "<a:onay:1544327423183552585>",
+    "error": "<a:red:1544327391248392255>",
+    "owner": "<:tac:1544327803812446341>"
+  }
+}
